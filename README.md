@@ -19,8 +19,8 @@ DATA SOURCES: PALMORIA GROUP DATA
 
 
 ## PROJECT OVERVIEW:
-# The project overview depict HR operations in allocating salaries among the gender groups 
-  using power bi to present the analysis and equality among them.
+#  The project overview depict HR operations in allocating salaries among the gender groups 
+#   using power bi to present the analysis and equality among them.
 
 
 
